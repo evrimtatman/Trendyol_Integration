@@ -1,0 +1,8 @@
+/opt/REPOS/Ewo_Trendyol/selenium-springboot-example/src/test/java/com/example/selenium/runners/Hook.java
+/opt/REPOS/Ewo_Trendyol/selenium-springboot-example/src/test/java/com/example/selenium/runners/SpringBootRunner.java
+/opt/REPOS/Ewo_Trendyol/selenium-springboot-example/src/test/java/com/example/selenium/steps/HomeSteps.java
+/opt/REPOS/Ewo_Trendyol/selenium-springboot-example/src/test/java/com/example/selenium/steps/BaseSteps.java
+/opt/REPOS/Ewo_Trendyol/selenium-springboot-example/src/test/java/com/example/selenium/pages/HomePage.java
+/opt/REPOS/Ewo_Trendyol/selenium-springboot-example/src/test/java/com/example/selenium/pages/BasePage.java
+/opt/REPOS/Ewo_Trendyol/selenium-springboot-example/src/test/java/com/example/selenium/Application.java
+/opt/REPOS/Ewo_Trendyol/selenium-springboot-example/src/test/java/com/example/selenium/runners/TestRunner.java
