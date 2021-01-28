@@ -3,7 +3,7 @@ Feature: Trendyol Case Login Test
   Scenario: User can login to system with correct credentials
     Given User navigate to home page
     Then  User Click to login button in the home page
-    Then  User enters username "Username" and password "Password" to inputs
+    Then  User enters username "*********" and password "*********" to inputs
     When User press the login button
     Then User logged in successfully
 
