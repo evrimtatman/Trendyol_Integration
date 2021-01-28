@@ -42,21 +42,7 @@ public class Hook {
 
     private WebDriverWait wait;
 
-    @PostConstruct
-    public void initialize() {
-        Runtime.getRuntime().addShutdownHook(new Thread(() -> {
-            if (isDriverLoaded()) {
-                LOGGER.info("Shutdown signal detected: Closing opened drivers");
-                closeDriver();
-                LOGGER.info("Opened drivers closed");
-            }
-        }));
 
-    }
-
-    private boolean isDriverLoaded() {
-        return driver != null;
-    }
 
     public WebDriver getDriver() {
         if (isEmpty(driver)) {

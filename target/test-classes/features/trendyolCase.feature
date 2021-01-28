@@ -1,9 +1,9 @@
-Feature: Trendyol Case Login Test
+Feature: Trendyol Case features
 
   Scenario: User can login to system with correct credentials
     Given User navigate to home page
-    Then  User Click to login button in the home page
-    Then  User enters username "*********" and password "*********" to inputs
+    When  User Click to login button in the home page
+    Then  User enters username "evrimm@windowslive.com" and password "maydonoz" to inputs
     When User press the login button
     Then User logged in successfully
 

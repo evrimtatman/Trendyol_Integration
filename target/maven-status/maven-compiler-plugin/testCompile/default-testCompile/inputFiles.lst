@@ -1,7 +1,7 @@
-/opt/REPOS/BulutEducation/Trendyol_Integration/src/test/java/com/trendyol/selenium/Application.java
-/opt/REPOS/BulutEducation/Trendyol_Integration/src/test/java/com/trendyol/selenium/runners/SpringBootRunner.java
-/opt/REPOS/BulutEducation/Trendyol_Integration/src/test/java/com/trendyol/selenium/steps/HomeSteps.java
-/opt/REPOS/BulutEducation/Trendyol_Integration/src/test/java/com/trendyol/selenium/runners/TestRunner.java
-/opt/REPOS/BulutEducation/Trendyol_Integration/src/test/java/com/trendyol/selenium/steps/BaseSteps.java
-/opt/REPOS/BulutEducation/Trendyol_Integration/src/test/java/com/trendyol/selenium/pages/HomePage.java
-/opt/REPOS/BulutEducation/Trendyol_Integration/src/test/java/com/trendyol/selenium/runners/Hook.java
+C:\Users\evrim\IdeaProjects\Trendyol_Integration\src\test\java\com\trendyol\selenium\Application.java
+C:\Users\evrim\IdeaProjects\Trendyol_Integration\src\test\java\com\trendyol\selenium\steps\BaseSteps.java
+C:\Users\evrim\IdeaProjects\Trendyol_Integration\src\test\java\com\trendyol\selenium\runners\SpringBootRunner.java
+C:\Users\evrim\IdeaProjects\Trendyol_Integration\src\test\java\com\trendyol\selenium\runners\TestRunner.java
+C:\Users\evrim\IdeaProjects\Trendyol_Integration\src\test\java\com\trendyol\selenium\steps\HomeSteps.java
+C:\Users\evrim\IdeaProjects\Trendyol_Integration\src\test\java\com\trendyol\selenium\pages\HomePage.java
+C:\Users\evrim\IdeaProjects\Trendyol_Integration\src\test\java\com\trendyol\selenium\runners\Hook.java

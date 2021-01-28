@@ -1,1 +1,48 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="74.137">
+<testcase classname="Trendyol Case Login Test" name="User can login to system with correct credentials" time="13.013">
+<system-out><![CDATA[Given User navigate to home page............................................passed
+Then User Click to login button in the home page............................passed
+Then User enters username "evrimm@windowslive.com" and password "maydonoz" to inputs.passed
+When User press the login button............................................passed
+Then User logged in successfully............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Trendyol Case Login Test" name="User click all boutiques and check images" time="54.032">
+<system-out><![CDATA[When user click "KADIN" section.............................................passed
+Then user goto url contains "/butik/liste/kadin" successfully...............passed
+And check broken images on boutique.........................................passed
+When user click "ERKEK" section.............................................passed
+Then user goto url contains "/butik/liste/erkek" successfully...............passed
+And check broken images on boutique.........................................passed
+When user click "ÇOCUK" section.............................................passed
+Then user goto url contains "/butik/liste/cocuk" successfully...............passed
+And check broken images on boutique.........................................passed
+When user click "EV & YAŞAM" section........................................passed
+Then user goto url contains "/butik/liste/ev--yasam" successfully...........passed
+And check broken images on boutique.........................................passed
+When user click "SÜPERMARKET" section.......................................passed
+Then user goto url contains "/butik/liste/supermarket" successfully.........passed
+And check broken images on boutique.........................................passed
+When user click "KOZMETİK" section..........................................passed
+Then user goto url contains "/butik/liste/kozmetik" successfully............passed
+And check broken images on boutique.........................................passed
+When user click "AYAKKABI & ÇANTA" section..................................passed
+Then user goto url contains "/butik/liste/ayakkabi--canta" successfully.....passed
+And check broken images on boutique.........................................passed
+When user click "SAAT & AKSESUAR" section...................................passed
+Then user goto url contains "/butik/liste/saat--aksesuar" successfully......passed
+And check broken images on boutique.........................................passed
+When user click "ELEKTRONİK" section........................................passed
+Then user goto url contains "/butik/liste/elektronik" successfully..........passed
+And check broken images on boutique.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Trendyol Case Login Test" name="User select a product and add to basket" time="5.091">
+<system-out><![CDATA[Given User click to product boutique........................................passed
+Then User click a product...................................................passed
+When Add product to basket..................................................passed
+Then Product added to basket successfully...................................passed
+]]></system-out>
+</testcase>
+</testsuite>

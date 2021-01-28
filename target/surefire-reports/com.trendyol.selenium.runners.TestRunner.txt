@@ -1,17 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.trendyol.selenium.runners.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 58.684 s <<< FAILURE! - in com.trendyol.selenium.runners.TestRunner
-User can login to system with correct credentials  Time elapsed: 17.523 s  <<< ERROR!
-org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: modal-root (tried for 10 second(s) with 500 milliseconds interval)
-Caused by: org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"css selector","selector":"#modal\-root"}
-  (Session info: chrome=88.0.4324.96)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'Bulut-MacBook-Pro.local', ip: 'fe80:0:0:0:1c67:f033:fba4:1491%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_275'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.96, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: /var/folders/gw/362mjr5x77s...}, goog:chromeOptions: {debuggerAddress: localhost:59596}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 30a14ab37c91d9e54d283603e06554bd
-*** Element info: {Using=id, value=modal-root}
-
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 74.596 s - in com.trendyol.selenium.runners.TestRunner

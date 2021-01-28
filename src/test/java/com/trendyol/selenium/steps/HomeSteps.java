@@ -25,7 +25,7 @@ public class HomeSteps {
         homePage.goToHomePage();
     }
 
-    @Then("User Click to login button in the home page")
+    @When("User Click to login button in the home page")
     public void userClickToLoginButtonInTheHomePage() {
         homePage.removeFancyBoxWithCommand();
         homePage.pressHomePageLoginButton();
