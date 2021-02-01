@@ -1,8 +1,0 @@
-com\trendyol\selenium\pages\HomePage.class
-com\trendyol\selenium\Application.class
-com\trendyol\selenium\steps\HomeSteps.class
-com\trendyol\selenium\steps\BaseSteps.class
-com\trendyol\selenium\runners\Hook.class
-com\trendyol\selenium\pages\HomePage$1.class
-com\trendyol\selenium\runners\SpringBootRunner.class
-com\trendyol\selenium\runners\TestRunner.class
